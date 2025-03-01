@@ -4,7 +4,6 @@
   "main": "app.js",
   "scripts": {
     "run": "node app.js"
-
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,7 @@
   "homepage": "https://github.com/g00091881/app101#readme",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2"
   }
 }
